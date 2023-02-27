@@ -17,17 +17,17 @@
 
 5. 运行结果： 
 
-![image](https://user-images.githubusercontent.com/56071025/221420249-33d70aee-feb9-46cc-9423-c89f2efa69bc.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221420249-33d70aee-feb9-46cc-9423-c89f2efa69bc.png" width="500px">  
 
 
-![image](https://user-images.githubusercontent.com/56071025/221420272-566597b8-1fbd-457d-bf47-08e682b094aa.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221420272-566597b8-1fbd-457d-bf47-08e682b094aa.png" width="500px">  
 
 
 勾选出发点、目的地、出发时间，自动生成购票任务：  
-![image](https://user-images.githubusercontent.com/56071025/221420285-bf631dda-bd41-420a-9e31-889fe001f758.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221420285-bf631dda-bd41-420a-9e31-889fe001f758.png" width="500px">  
 
 
-![image](https://user-images.githubusercontent.com/56071025/221420299-b6fd6fea-d4a9-4e09-8aaf-6ff9277c5a25.png)  
+<img src="https://user-images.githubusercontent.com/56071025/221420299-b6fd6fea-d4a9-4e09-8aaf-6ff9277c5a25.png" width="500px">  
 
 
-![image](https://user-images.githubusercontent.com/56071025/221420308-5167c81e-b92e-4ff6-8040-a1088bc74496.png)
+<img src="https://user-images.githubusercontent.com/56071025/221420308-5167c81e-b92e-4ff6-8040-a1088bc74496.png" width="500px">    
